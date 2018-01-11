@@ -1,0 +1,16 @@
+{
+  "name": "javascript-json-server",
+  "version": "1.0.0",
+  "description": "Experiment with a mocking service",
+  "author": "Stefan Jansson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjansson/javascript-json-server.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "lodash": "^4.17.4"
+  }
+}
